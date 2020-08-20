@@ -9,3 +9,4 @@ For now this repository contains such topics:
 - random number generators
 - data preprocessing
 - simple graphics
+- estimators
