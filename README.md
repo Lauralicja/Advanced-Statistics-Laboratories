@@ -10,3 +10,4 @@ For now this repository contains such topics:
 - data preprocessing
 - simple graphics
 - estimators
+- hypotesis testing
