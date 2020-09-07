@@ -11,3 +11,5 @@ For now this repository contains such topics:
 - simple graphics
 - estimators
 - hypotesis testing
+- variation analysis
+- linear regression analysis
